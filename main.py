@@ -54,7 +54,7 @@ def download(url, aweme_id, desc):
 
 def main(link):
     """
-    :param link: Uid of user (https://www.douyin.com/user/MS4wLjABAAAAM83vEaMRlBIjnJhbDrujETyATNE159vPeYbPr7IXQzA)
+    :param link: Link of user (https://www.douyin.com/user/MS4wLjABAAAAM83vEaMRlBIjnJhbDrujETyATNE159vPeYbPr7IXQzA)
     """
 
     url = "https://www.douyin.com/user/"
